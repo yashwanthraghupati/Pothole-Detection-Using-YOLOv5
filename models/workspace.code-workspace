@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\Avanseus Learning\\Web\\AJAX"
+	},
+	{
+		"path": "..\\..\\..\\Avanseus Learning\\Web\\JS"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "AJAX"
+  }
+}
